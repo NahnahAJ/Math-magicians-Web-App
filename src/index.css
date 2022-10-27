@@ -38,7 +38,7 @@ body {
 }
 
 .display span {
-  font-size: 14px;
+  font-size: 2rem;
   color: var(--white-color);
 }
 
