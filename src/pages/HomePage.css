@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;1,400&family=Ubuntu:wght@300&display=swap');
+
+.welcome,
+.paragraph {
+  display: flex;
+  flex-direction: column;
+}
+
+.welcome {
+  gap: 3rem;
+  padding: 1rem 2rem;
+  font-size: 1.3rem;
+}
+
+.paragraph {
+  gap: 2rem;
+  font-size: 1.2rem;
+  font-family: 'Ubuntu', sans-serif;
+}
