@@ -10,7 +10,8 @@
 - React
 
 
-## Live Demo (Not Available)
+## Live Demo
+[Math Magicians](https://fancy-empanada-434a74.netlify.app/)
 
 
 ## Getting Started
